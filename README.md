@@ -1,0 +1,2 @@
+# trivy
+deploying in eks 
